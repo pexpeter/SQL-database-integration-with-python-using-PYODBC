@@ -25,5 +25,3 @@ The [query function](queryfn.py) is used to connect to the local database, execu
 
 - python
 - jupyter notebook
-
-
